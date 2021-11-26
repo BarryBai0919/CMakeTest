@@ -1,0 +1,1 @@
+/bin/x86_64-linux-gnu-g++-9 -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libPoint.so -o ../bin/Release/libPoint.so CMakeFiles/Point.dir/src/Point.cpp.o 

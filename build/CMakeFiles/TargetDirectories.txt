@@ -1,0 +1,11 @@
+/home/barrypai/BarryTest/build/CMakeFiles/rebuild_cache.dir
+/home/barrypai/BarryTest/build/CMakeFiles/edit_cache.dir
+/home/barrypai/BarryTest/build/element/CMakeFiles/edit_cache.dir
+/home/barrypai/BarryTest/build/element/CMakeFiles/rebuild_cache.dir
+/home/barrypai/BarryTest/build/element/CMakeFiles/Element.dir
+/home/barrypai/BarryTest/build/point/CMakeFiles/rebuild_cache.dir
+/home/barrypai/BarryTest/build/point/CMakeFiles/edit_cache.dir
+/home/barrypai/BarryTest/build/point/CMakeFiles/Point.dir
+/home/barrypai/BarryTest/build/main/CMakeFiles/rebuild_cache.dir
+/home/barrypai/BarryTest/build/main/CMakeFiles/edit_cache.dir
+/home/barrypai/BarryTest/build/main/CMakeFiles/Test1.dir

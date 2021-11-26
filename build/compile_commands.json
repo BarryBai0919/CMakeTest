@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/barrypai/BarryTest/build/element",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DElement_EXPORTS -I/home/barrypai/BarryTest/element/./inc -I/home/barrypai/BarryTest/point/inc  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/Element.dir/src/Box.cpp.o -c /home/barrypai/BarryTest/element/src/Box.cpp",
+  "file": "/home/barrypai/BarryTest/element/src/Box.cpp"
+},
+{
+  "directory": "/home/barrypai/BarryTest/build/element",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DElement_EXPORTS -I/home/barrypai/BarryTest/element/./inc -I/home/barrypai/BarryTest/point/inc  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/Element.dir/src/Cube.cpp.o -c /home/barrypai/BarryTest/element/src/Cube.cpp",
+  "file": "/home/barrypai/BarryTest/element/src/Cube.cpp"
+},
+{
+  "directory": "/home/barrypai/BarryTest/build/element",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DElement_EXPORTS -I/home/barrypai/BarryTest/element/./inc -I/home/barrypai/BarryTest/point/inc  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/Element.dir/src/Element.cpp.o -c /home/barrypai/BarryTest/element/src/Element.cpp",
+  "file": "/home/barrypai/BarryTest/element/src/Element.cpp"
+},
+{
+  "directory": "/home/barrypai/BarryTest/build/element",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DElement_EXPORTS -I/home/barrypai/BarryTest/element/./inc -I/home/barrypai/BarryTest/point/inc  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/Element.dir/src/Sphere.cpp.o -c /home/barrypai/BarryTest/element/src/Sphere.cpp",
+  "file": "/home/barrypai/BarryTest/element/src/Sphere.cpp"
+},
+{
+  "directory": "/home/barrypai/BarryTest/build/point",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DPoint_EXPORTS -I/home/barrypai/BarryTest/point/./inc  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/Point.dir/src/Point.cpp.o -c /home/barrypai/BarryTest/point/src/Point.cpp",
+  "file": "/home/barrypai/BarryTest/point/src/Point.cpp"
+},
+{
+  "directory": "/home/barrypai/BarryTest/build/main",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/barrypai/BarryTest/main/./inc -I/home/barrypai/BarryTest/element/inc -I/home/barrypai/BarryTest/point/inc -I/home/barrypai/BarryTest/build/main/inc  -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/Test1.dir/src/test1.cpp.o -c /home/barrypai/BarryTest/main/src/test1.cpp",
+  "file": "/home/barrypai/BarryTest/main/src/test1.cpp"
+}
+]

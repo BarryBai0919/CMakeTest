@@ -1,0 +1,122 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "element",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "element",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "point",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "point",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "main",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "main",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"name" : "Test1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "Element::@022b2c724e583c16fbb6",
+					"jsonFile" : "target-Element-Release-c1ac27c6ed6d1fd321bf.json",
+					"name" : "Element",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Point::@3589f16a8dd2dd1a351f",
+					"jsonFile" : "target-Point-Release-4796959928fc0b54acf2.json",
+					"name" : "Point",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Test1::@15c4a824ab2728a3f5e7",
+					"jsonFile" : "target-Test1-Release-87cd38de584f4d48a247.json",
+					"name" : "Test1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/barrypai/BarryTest/build",
+		"source" : "/home/barrypai/BarryTest"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}
